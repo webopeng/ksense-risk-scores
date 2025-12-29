@@ -8,6 +8,7 @@ interface Patient {
   visit_date: string;
   diagnosis: string;
   medications: string;
+
 }
 
 export type { Patient };
