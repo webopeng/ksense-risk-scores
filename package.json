@@ -1,0 +1,25 @@
+{
+  "name": "ksense",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000k\u0000s\u0000e\u0000n\u0000s\u0000e\u0000-\u0000r\u0000i\u0000s\u0000k\u0000-\u0000s\u0000c\u0000o\u0000r\u0000e\u0000s\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-webopeng:webopeng/ksense-risk-scores.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
